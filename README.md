@@ -1,1 +1,1 @@
-# typescript-course
+# TypeScript Learnings
